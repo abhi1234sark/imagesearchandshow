@@ -54,7 +54,7 @@ app.use(passport.initialize())
 app.use(passport.session());
 
 // MongoDB connection
-mongoose.connect('mongodb+srv://hackersarkar12_db_user:nDxnKy5MviTeDWxK@imagefindandshow.w6mdt4i.mongodb.net/?appName=imagefindandshow', {
+mongoose.connect('', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
