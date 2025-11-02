@@ -2,7 +2,7 @@
 
 A full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring OAuth authentication and image search functionality using the Unsplash API.
 ![Alt text](https://github.com/abhi1234sark/imagesearchandshow/blob/35c4f940ba127aaf50f90e4f61fe79577f889f1e/imagesearchandshow1.png)
-![Alt text](
+![Alt text](https://github.com/abhi1234sark/imagesearchandshow/blob/4b48914d237ae54d1c39ff16e8023648a0f0f47b/search2.png
 )
 ## 🚀 Features
 
